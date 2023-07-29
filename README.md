@@ -1,6 +1,6 @@
 # Stopwatch App
 
-![Stopwatch App]()
+![Stopwatch App](AppScreenshot.PNG)
 
 ## Description
 
@@ -32,7 +32,7 @@ The Stopwatch App is a simple and user-friendly web application built using Vani
 
 ## Live Demo
 
-[Stopwatch App Demo]()
+ [Simple Stopwatch](https://whoismonesh.github.io/SimpleStopWatch/)
 
 ## Contributing
 
