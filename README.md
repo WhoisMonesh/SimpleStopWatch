@@ -28,7 +28,7 @@ The Stopwatch App is a simple and user-friendly web application built using Vani
 
 ## Preview
 
-![Stopwatch App Preview]()
+![Stopwatch App Preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1qcXpiOGk4bW52OG9zZjJjNXlncHA0MmNldnJwM2VpN29mcHdiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3r1sAInGJKyUsv3jF7/giphy.gif)
 
 ## Live Demo
 
